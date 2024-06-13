@@ -1,5 +1,6 @@
 # Ejercicios-SQL-Server
 Algunos ejericicos hechos por mi de la materia informatica 2 
+
 1- (A) de la tabla autos mostrar patente, marca, modelo, color, anio y precio de
 todo los autos, ordenados por precio ; (B) de los autos cuyo precio sea
 mayor a $10.500.000 ; (C) los autos cuyo precio este entre $9.000.000 y
