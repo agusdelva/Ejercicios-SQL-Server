@@ -1,0 +1,1 @@
+select sum(precio) as suma, count(patente) as cantidad from autos;

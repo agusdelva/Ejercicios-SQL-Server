@@ -1,0 +1,1 @@
+select max(precio) as precioMaximo from autos;
