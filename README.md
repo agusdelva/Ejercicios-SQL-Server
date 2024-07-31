@@ -1,5 +1,5 @@
 # Ejercicios-SQL-Server
-Algunos ejericicos hechos por mi de la materia informatica 2 
+## Algunos ejericicos hechos por mi de la materia informatica 2 
 
 1- (A) de la tabla autos mostrar patente, marca, modelo, color, anio y precio de
 todo los autos, ordenados por precio ; (B) de los autos cuyo precio sea
